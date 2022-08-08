@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f8ce3aa6e5f45afcc3c23176aa7d46, type: 3}
+  m_Name: "PsdkSerializedData"
+  m_EditorClassIdentifier: 
+  unityVersion: "2018.2.14f1"
+  productName: "Slides"
+  bundleIdentifier: "com.crazylabs.aqua.park"
+  bundleVersion: "0.1"
+  androidBundleVersionCode: "110"
+  psdkVersion: "PSDKAnalytics:4.19.0.4.1,PSDKAppsFlyer:4.19.0.4.1,PSDKBanners:4.19.0.4.1,PSDKBilling:4.19.0.4.1,PSDKCore:4.19.0.4.1,PSDKCrashTool:4.19.0.4.1,PSDKMonetization:4.19.0.4.1,PSDKNativeCampaign:4.19.0.4.1,PSDKRateUs:4.19.0.4.1,PSDKRewardedAds:4.19.0.4.1,PSDKSplash:4.19.0.4.1\n"
+  buildTime: "6\x2f12\x2f2019 6:02:52 PM"
+  unityScriptingBackend: 

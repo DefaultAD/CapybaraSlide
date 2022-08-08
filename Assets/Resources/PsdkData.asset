@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cddb9620613f603ba8d025166bd6cc9, type: 3}
+  m_Name: "PsdkData"
+  m_EditorClassIdentifier: 
+  appStoreUrlIOS: "https:\x2f\x2fitunes.apple.com\x2fapp\x2fid1451478243"
+  appStoreUrlGP: "https:\x2f\x2fplay.google.com\x2fstore\x2fapps\x2fdetails?id=com.crazylabs.coin.rush"
+  leaderboardIdIOS: 
+  leaderboardIdGP: 
+  shareHeader: 
+  shareSubject: 
+  shareBody: 
+  achievments: []
+  inApps:
+  - id: "noads"
+    iapIdIOS: "com.crazylabs.coinrush.noads"
+    iapIdGP: "com.crazylabs.coin.rush.noads"
+  reviveMinScoreRequirement: 30
+  reviveBestScorePercentageRequirement: 5
+  reviveSegmentThresholdInEndless: 3

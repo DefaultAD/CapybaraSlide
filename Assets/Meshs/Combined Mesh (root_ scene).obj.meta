@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 65350868489048afaf1ea82c5a04ffd6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Combined_Mesh_(root:_scene)
+    100002: //RootNode
+    100004: Combined_Mesh_(root:_scene)_1
+    100006: Combined_Mesh_(root:_scene)_2
+    100008: Combined_Mesh_(root:_scene)_3
+    100010: Combined_Mesh_(root:_scene)_4
+    100012: Combined_Mesh_(root:_scene)_5
+    100014: Combined_Mesh_(root:_scene)_6
+    100016: Combined_Mesh_(root:_scene)_7
+    100018: Combined_Mesh_(root:_scene)_8
+    100020: Combined_Mesh_(root:_scene)_9
+    400000: Combined_Mesh_(root:_scene)
+    400002: //RootNode
+    400004: Combined_Mesh_(root:_scene)_1
+    400006: Combined_Mesh_(root:_scene)_2
+    400008: Combined_Mesh_(root:_scene)_3
+    400010: Combined_Mesh_(root:_scene)_4
+    400012: Combined_Mesh_(root:_scene)_5
+    400014: Combined_Mesh_(root:_scene)_6
+    400016: Combined_Mesh_(root:_scene)_7
+    400018: Combined_Mesh_(root:_scene)_8
+    400020: Combined_Mesh_(root:_scene)_9
+    2300000: Combined_Mesh_(root:_scene)
+    2300002: Combined_Mesh_(root:_scene)_1
+    2300004: Combined_Mesh_(root:_scene)_2
+    2300006: Combined_Mesh_(root:_scene)_3
+    2300008: Combined_Mesh_(root:_scene)_4
+    2300010: Combined_Mesh_(root:_scene)_5
+    2300012: Combined_Mesh_(root:_scene)_6
+    2300014: Combined_Mesh_(root:_scene)_7
+    2300016: Combined_Mesh_(root:_scene)_8
+    2300018: Combined_Mesh_(root:_scene)_9
+    3300000: Combined_Mesh_(root:_scene)
+    3300002: Combined_Mesh_(root:_scene)_1
+    3300004: Combined_Mesh_(root:_scene)_2
+    3300006: Combined_Mesh_(root:_scene)_3
+    3300008: Combined_Mesh_(root:_scene)_4
+    3300010: Combined_Mesh_(root:_scene)_5
+    3300012: Combined_Mesh_(root:_scene)_6
+    3300014: Combined_Mesh_(root:_scene)_7
+    3300016: Combined_Mesh_(root:_scene)_8
+    3300018: Combined_Mesh_(root:_scene)_9
+    4300000: Combined_Mesh_(root:_scene)
+    4300002: Combined_Mesh_(root:_scene)_1
+    4300004: Combined_Mesh_(root:_scene)_2
+    4300006: Combined_Mesh_(root:_scene)_3
+    4300008: Combined_Mesh_(root:_scene)_4
+    4300010: Combined_Mesh_(root:_scene)_5
+    4300012: Combined_Mesh_(root:_scene)_6
+    4300014: Combined_Mesh_(root:_scene)_7
+    4300016: Combined_Mesh_(root:_scene)_8
+    4300018: Combined_Mesh_(root:_scene)_9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)Mat
+    second: {fileID: 2100000, guid: a7873d023d49af8459613bf1dabde43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_1Mat
+    second: {fileID: 2100000, guid: ad650fe9133a7f644b58017db7161040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_2Mat
+    second: {fileID: 2100000, guid: 363b8ebcbab203840acf6de875e25715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_3Mat
+    second: {fileID: 2100000, guid: bb62f7b939449da4c9e9af0ea558456c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_4Mat
+    second: {fileID: 2100000, guid: d367581f2b94494419475b5b3128931f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_5Mat
+    second: {fileID: 2100000, guid: 11641c994ce8c9c40b9a425986a59a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_6Mat
+    second: {fileID: 2100000, guid: 5ea93b192a557be4e96c85da6f0caa60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_7Mat
+    second: {fileID: 2100000, guid: 4679cd84ad300e045a54a8d749f8fd65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_8Mat
+    second: {fileID: 2100000, guid: fc821cf4f410c40418291fd4db2fe0b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_9Mat
+    second: {fileID: 2100000, guid: a5f65139eb2dc8b44939185b287c107b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

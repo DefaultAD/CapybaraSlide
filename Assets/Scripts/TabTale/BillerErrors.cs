@@ -1,0 +1,16 @@
+// DecompilerFi decompiler from Assembly-CSharp.dll class: TabTale.BillerErrors
+namespace TabTale
+{
+	public enum BillerErrors
+	{
+		NO_ERROR,
+		PURCHASING_UNAVAILABLE,
+		ATTEMPTING_TO_PURCHASE_PRODUCT_WITH_SAME_RECEIPT,
+		PAYMENT_DECLINED,
+		PRODUCT_UNAVAILABLE,
+		REMOTE_VALIDATION_FAILED,
+		APP_NOT_KNOWN,
+		NO_PRODUCTS_AVAILABLE,
+		UNKNOWN
+	}
+}
